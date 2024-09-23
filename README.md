@@ -39,4 +39,4 @@ This project focuses on the analysis of Zomato's business performance using Powe
 
 
 ## Contact
-For inquiries or collaboration, please reach out to [your-surunatekar@gmail.com](mailto:your- surunatekar@gmail.com).
+For inquiries or collaboration, please reach out to surunatekar@gmail.com.
