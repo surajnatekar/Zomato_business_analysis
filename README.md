@@ -34,6 +34,10 @@ This project focuses on the analysis of Zomato's business performance using Powe
 - **Data Visualization**
 - **Statistical Analysis**
 
+## Project Files
+You can find all project files in the following Google Drive link: [Project Files](https://drive.google.com/drive/folders/1f80DHdoWe-K5Bs-IwnUFrQcabqGAE_Oa?usp=sharing).
+
+
 ## **Dashboard Preview** : 
 ![Dashboard](https://github.com/user-attachments/assets/c370b78e-e852-48ae-9b65-1acb4e747f3d)
 
